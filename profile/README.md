@@ -1,8 +1,5 @@
 # RayLabs 🚀
 
-Timeless design • Pragmatic engineering • Rapid iteration  
-We build web & SaaS products that feel effortlessly polished.
-
 <picture>
   <source srcset="./og-image-dark.png" media="(prefers-color-scheme: dark)" />
   <source srcset="./og-image-light.png" media="(prefers-color-scheme: light)" />
