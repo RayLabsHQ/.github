@@ -17,6 +17,18 @@
 
 ## Products
 
+### [Lumical - Scan to Calendar](https://lumical.app)
+
+Turn photos & screenshots into calendar events. Scan invites, agendas, or reminders and Lumical converts them into ready-to-save calendar events in seconds.
+
+<a href='https://apps.apple.com/us/app/lumical-scan-to-calendar/id6753274309'>
+  <picture>
+    <source srcset="./products/lumical/app-store-dark.png" media="(prefers-color-scheme: dark)" />
+    <source srcset="./products/lumical/app-store-light.png" media="(prefers-color-scheme: light)" />
+    <img src="./products/lumical/app-store-light.png" alt="Gitea Mirror" />
+  </picture>
+</a>
+
 ### [Gitea Mirror](https://github.com/RayLabsHQ/gitea-mirror)
 
 Automatically mirror repositories from GitHub to your self-hosted Gitea instance. Features real-time syncing, organization support, and a beautiful dashboard.
