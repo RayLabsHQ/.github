@@ -54,5 +54,6 @@ Fast, secure, and completely private browser tools. No uploads, no servers, no p
 </a>
 
 🌐 **Website** – [raylabs.io](https://raylabs.io)
+📧 **E-Mail** - [hello@raylabs.io](mailto:hello@raylabs.io)
 
 Made with care by the RayLabs crew.
