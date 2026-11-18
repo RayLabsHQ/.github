@@ -22,7 +22,7 @@
   <img src="./products/yasu/screenshots.png" alt="Yasu on iPhone and Apple Watch: See your stress, bring it down. Stressed? See it in one number. Know what set it off. Stressed? Take 90 seconds. Ready for the day?" />
 </a>
 
-<a href='https://apps.apple.com/app/id6823940982'><img src="./badges/app-store.svg" height="48" alt="Download Yasu on the App Store" /></a>
+<a href='https://apps.apple.com/us/app/yasu-stress-hrv-for-watch/id6823940982?ppid=57cf0d22-0c85-427c-a1b5-048d3c0b73e3'><img src="./badges/app-store.svg" height="48" alt="Download Yasu on the App Store" /></a>
 
 ### [Lumical: Scan to Calendar](https://lumical.app)
 
