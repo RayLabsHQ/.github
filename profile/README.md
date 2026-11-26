@@ -65,7 +65,11 @@
 Gitea Mirror keeps a self-hosted copy of your repositories. Connect GitHub (or GitLab, Gitea, Forgejo or any git host), pick a Gitea or Forgejo server, and it mirrors your repositories, organizations and starred projects there, with issues, pull requests, releases, wiki and LFS if you want them, and keeps them in sync on a schedule.
 
 <a href='https://github.com/RayLabsHQ/gitea-mirror'>
-  <img src="./products/gitea-mirror/dashboard.png" alt="The Gitea Mirror dashboard: eight imported repositories, five mirrored, three organizations, the repository list with each one's mirror status, and recent activity" />
+  <picture>
+    <source srcset="./products/gitea-mirror/dashboard-dark.png" media="(prefers-color-scheme: dark)" />
+    <source srcset="./products/gitea-mirror/dashboard-light.png" media="(prefers-color-scheme: light)" />
+    <img src="./products/gitea-mirror/dashboard-light.png" alt="The Gitea Mirror dashboard: 28 imported repositories, 23 mirrored, four organizations, the repository list with each one's mirror status, and recent activity" />
+  </picture>
 </a>
 
 <a href='https://github.com/RayLabsHQ/gitea-mirror'><img src="./badges/source-code-github.svg" height="28" alt="Gitea Mirror's source code on GitHub" /></a> <a href='https://gitea-mirror.raylabs.io/docs/'><img src="./badges/docs-gitea-mirror.svg" height="28" alt="Gitea Mirror docs" /></a>
