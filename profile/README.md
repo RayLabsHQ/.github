@@ -8,7 +8,21 @@
   </picture>
 </a>
 
-## Our Apps
+## Our Products
+
+### [GoPayLocal: Open-Source PPP Pricing](https://gopaylocal.com)
+
+**Fair prices. More customers. Zero effort.** GoPayLocal shows each visitor to your website a discount that fits their country's purchasing power, and creates the matching code in your payment platform: Stripe, Paddle, Gumroad, Chargebee, Dodo Payments, Polar, Whop, Creem or WooCommerce. One script tag, VPN detection and prices in local currencies. Use the hosted version, free to start, or run it on your own Cloudflare account.
+
+<a href='https://gopaylocal.com'>
+  <picture>
+    <source srcset="./products/gopaylocal/banner-dark.png" media="(prefers-color-scheme: dark)" />
+    <source srcset="./products/gopaylocal/banner-light.png" media="(prefers-color-scheme: light)" />
+    <img src="./products/gopaylocal/banner-light.png" alt="GoPayLocal: purchasing power parity discounts for your website, worked out per country at the Cloudflare edge" />
+  </picture>
+</a>
+
+<a href='https://gopaylocal.com'><img src="https://img.shields.io/badge/Start_free-gopaylocal.com-E42313?style=for-the-badge" alt="Start free at gopaylocal.com" /></a> <a href='https://github.com/RayLabsHQ/gopaylocal'><img src="https://img.shields.io/badge/Source_code-GitHub-111111?style=for-the-badge&logo=github" alt="GoPayLocal's source code on GitHub" /></a> <a href='https://docs.gopaylocal.com'><img src="https://img.shields.io/badge/Docs-docs.gopaylocal.com-111111?style=for-the-badge" alt="GoPayLocal docs" /></a>
 
 ### [Yasu: Stress & HRV for Watch](https://yasu.raylabs.io)
 
@@ -49,18 +63,6 @@ Automatically mirror repositories from GitHub to your self-hosted Gitea instance
     <source srcset="./products/gitea-mirror/dashboard.png" media="(prefers-color-scheme: dark)" />
     <source srcset="./products/gitea-mirror/dashboard-light.png" media="(prefers-color-scheme: light)" />
     <img src="./products/gitea-mirror/dashboard-light.png" alt="Gitea Mirror" />
-  </picture>
-</a>
-
-### [Format Fuse](https://formatfuse.com/)
-
-Fast, secure, and completely private browser tools. No uploads, no servers, no payments. Everything happens right in your browser.
-
-<a href='https://formatfuse.com/'>
-  <picture>
-    <source srcset="./products/formatfuse/formatfuse-dark.png" media="(prefers-color-scheme: dark)" />
-    <source srcset="./products/formatfuse/formatfuse-light.png" media="(prefers-color-scheme: light)" />
-    <img src="./products/formatfuse/formatfuse-light.png" alt="FormatFuse" />
   </picture>
 </a>
 
