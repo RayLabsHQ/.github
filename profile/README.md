@@ -70,12 +70,21 @@ Gitea Mirror keeps a self-hosted copy of your repositories. Connect GitHub (or G
 
 <a href='https://github.com/RayLabsHQ/gitea-mirror'><img src="https://img.shields.io/badge/Source_code-GitHub-111111?style=for-the-badge&logo=github" alt="Gitea Mirror's source code on GitHub" /></a> <a href='https://gitea-mirror.raylabs.io/docs/'><img src="https://img.shields.io/badge/Docs-gitea--mirror.raylabs.io-111111?style=for-the-badge" alt="Gitea Mirror docs" /></a>
 
-## What We Do
+### [O'Block: Daily Block Puzzle](https://oblock.raylabs.io)
 
-- **Product Strategy & UX** – turning fuzzy ideas into clear roadmaps  
-- **Full-Stack Development** – React / TypeScript / Next.js & friends  
-- **Performance & DevOps** – speed, reliability, and sane ops from day 1  
-- **In-House Experiments** – a growing suite of micro-SaaS tools
+A daily block puzzle for iPhone. One seeded 8×8 board a day, the same one worldwide, and one attempt at it, plus a 240-level Journey and a worldwide leaderboard.
+
+<a href='https://apps.apple.com/app/id6759292935'>
+  <img src="./products/oblock/header.png" alt="O'Block: One board a day. The same one, everywhere. A daily block puzzle for iPhone." />
+</a>
+
+<a href='https://apps.apple.com/app/id6759292935'><img src="./badges/app-store.svg" height="48" alt="Download O'Block on the App Store" /></a>
+
+## How We Work
+
+- **Open source first.** GoPayLocal and Gitea Mirror are public. Read the code, run it on your own servers, or send a fix.
+- **Hosted, on the same code.** GoPayLocal's hosted version runs the code you can read here. Start free, and pay when you need more.
+- **Apps for everyday life.** Yasu, Lumical and O'Block each do one job: show your stress, put a schedule in your calendar, give you one puzzle a day.
 
 🌐 **Website** – [raylabs.io](https://raylabs.io)
 
